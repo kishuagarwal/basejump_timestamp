@@ -1,5 +1,5 @@
 {
-	"name": "timestamp service",
+	"name": "timestamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
