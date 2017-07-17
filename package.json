@@ -1,11 +1,11 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "BaseJump Timestamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "server.js",
+	"main": "timestamp.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node timestamp.js"
 	},
 	"engines": {
 		"node": "4.4.5"
